@@ -5,8 +5,8 @@
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Java-003796?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-	<a><img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
-	<a><img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
+	<a><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
+	<a><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 </div>
  
 <br>
@@ -15,6 +15,7 @@
 
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
+	<a><img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></a>
 </div>
 
 <br>
