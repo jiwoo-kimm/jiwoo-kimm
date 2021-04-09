@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=f67280&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff)
+![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=f67280&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff&animation=twinkling)
 
 <h3 align="center">Junior Backend Engineer</h3>
 
