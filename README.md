@@ -21,8 +21,6 @@
 
 <h3 align="center">•••</h3>
 
-<br>
-
 <h3 align="center">Contacts</h3>
 
 <div align=center>
