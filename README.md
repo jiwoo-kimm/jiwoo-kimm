@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=f67280&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff)
 
-<h3 align="center">Main Tech</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Java-003796?style=round-square&logo=Java&logoColor=white"/></a>&nbsp;
@@ -9,18 +9,12 @@
 	<a><img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Hibernate-59666C?style=round-square&logo=Linux&logoColor=white"/></a>
-</div>
- 
-<br>
-
-<h3 align="center">Sub Tech</h3>
-
-<div align=center>
+	<br>
 	<a><img src="https://img.shields.io/badge/Python-00599C?style=round-square&logo=Python&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Android-3ddc84?style=round-square&logo=Android&logoColor=white"/></a>
 </div>
-
+ 
 <br>
 
 <h3 align="center">Contacts</h3>
