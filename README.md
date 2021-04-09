@@ -2,6 +2,8 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
+<br>
+
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Java-003796?style=round-square&logo=Java&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Python-00599C?style=round-square&logo=Python&logoColor=white"/></a>&nbsp;
