@@ -5,8 +5,8 @@
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Java-003796?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-	<a><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
-	<a><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
+	<a><img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
+	<a><img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
 </div>
  
 <br>
