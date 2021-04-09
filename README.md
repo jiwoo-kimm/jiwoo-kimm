@@ -20,5 +20,6 @@
 <h3 align="center">Contacts</h3>
 
 <div align=center>
-	 <a href="mailto:jiwoo.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwoo.kim.dev@gmail.com"/></a>
+	<a href="mailto:jiwoo.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwoo.kim.dev@gmail.com"/></a>&nbsp;
+	<a href="https://velog.io/@jwkim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jwkim"/></a>&nbsp
 </div>
