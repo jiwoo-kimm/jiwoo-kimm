@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=f67280&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff)
 
+<br>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <br>
@@ -23,7 +25,7 @@
 
 <h3 align="center">•••</h3>
 
-<h3 align="center">Contacts</h3>
+<h3 align="center">💎 Contacts 💎</h3>
 
 <div align=center>
 	<a href="mailto:jiwoo.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:jiwoo.kim.dev@gmail.com"/></a>&nbsp;
