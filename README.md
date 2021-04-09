@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=170&color=1d4e89&section=header&text=JiwooKim&fontSize=60&fontColor=f5fcff&fontAlign=80&fontAlignY=30&rotate=12)
 
-    
+<br></br>
+
 <div align=center>
 		
 <p style="font-size:123px;">Main Tech</p>
