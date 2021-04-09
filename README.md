@@ -2,7 +2,7 @@
 
 <div align=center>
 		
-<p style="color: blue; font-size: 46px;">Main Tech</p>
+<p style="color: blue; font-size: 500px;">Main Tech</p>
 <span style="font-size:123px; color:red;">Main Tech</span>
 
 <img src="https://img.shields.io/badge/Java-003796?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp; &nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring&logoColor=white"/></a>
