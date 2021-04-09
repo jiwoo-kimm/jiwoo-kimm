@@ -12,7 +12,7 @@
 <h3 align="center">Sub Tech</h3>
 
 <div align=center>
-	<img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
+	<a><img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
 </div>
 
 <br>
@@ -20,5 +20,5 @@
 <h3 align="center">Contacts</h3>
 
 <div align=center>
-	 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwoo.kim.dev@gmail.com)](mailto:jiwoo.kim.dev@gmail.com)
+	 <a href="mailto:jiwoo.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwoo.kim.dev@gmail.com"/></a>
 </div>
