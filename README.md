@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=170&color=1d4e89&section=header&text=JiwooKim&fontSize=60&fontColor=f5fcff&fontAlign=80&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=120&color=1d4e89&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff)
 
 <h3 align="center">Main Tech</h3>
 
