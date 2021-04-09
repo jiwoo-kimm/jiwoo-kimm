@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=f67280&section=header&text=JiwooKim&fontSize=50&fontColor=f5fcff)
+
 <h3 align="center">Junior Backend Engineer</h3>
 
-<br>
+<h3 align="center">•••</h3>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
