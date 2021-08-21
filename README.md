@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=105&color=f67280&section=header&text=JiwooKim&fontSize=45&fontColor=f5fcff&animation=twinkling)
-
 <h3 align="center">Junior Software Engineer</h3>
 
 <h3 align="center">•••</h3>
