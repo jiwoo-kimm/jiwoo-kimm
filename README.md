@@ -1,3 +1,5 @@
+<h3 align="center">Jiwoo Kim</h3>
+
 <h3 align="center">Junior Software Engineer</h3>
 
 <h3 align="center">•••</h3>
