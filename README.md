@@ -18,7 +18,6 @@
 	<a><img src="https://img.shields.io/badge/Android-3ddc84?style=round-square&logo=Android&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/MySQL-4479a1?style=round-square&logo=MySQL&logoColor=white"/></a>
 	<br>
-	<a><img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 	<a><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white"/></a>
 </div>
