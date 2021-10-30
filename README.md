@@ -2,7 +2,7 @@
 
 <h3 align="center">•••</h3>
 
-<h3 align="center">🔥 Current studying 🔥</h3>
+<h3 align="center">🔥 Currently Studying 🔥</h3>
 
 <div align=center>
 	<a><img src="https://img.shields.io/badge/Go-00ADD8?style=round-square&logo=Go&logoColor=white"/></a>&nbsp;
